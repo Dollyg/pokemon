@@ -1,4 +1,4 @@
-const allPokemonsUrl = "https://pokeapi.co/api/v2/pokemon"
+const allPokemonsUrl = "https://pokeapi.co/api/v2/pokemon";
 
 
 function getInitialPokemons () {

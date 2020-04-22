@@ -1,5 +1,3 @@
-import {createStore} from 'redux'
-
 //action types
 export const GetPokemons = "GetPokemons";
 export const GetPokemonsSuccess = "GetPokemonsSuccess";
